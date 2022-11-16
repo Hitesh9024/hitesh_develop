@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="114" height="114" viewBox="0 0 114 114">
+  <defs>
+    <clipPath id="clip-path">
+      <ellipse id="Ellipse_28" data-name="Ellipse 28" cx="57" cy="57" rx="57" ry="57" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_1594" data-name="Rectangle 1594" width="170" height="114" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_2086" data-name="Group 2086" transform="translate(-1950 -2650.5)">
+    <g id="Group_2085" data-name="Group 2085" transform="translate(1950 2650.5)" clip-path="url(#clip-path)">
+      <g id="Group_2084" data-name="Group 2084" transform="translate(-28 0)">
+        <rect id="Rectangle_1587" data-name="Rectangle 1587" width="170" height="114" fill="#002173"/>
+        <g id="Group_2083" data-name="Group 2083">
+          <g id="Group_2082" data-name="Group 2082" clip-path="url(#clip-path-2)">
+            <g id="Group_2081" data-name="Group 2081" transform="translate(-20.574 -2.141)">
+              <g id="Group_2079" data-name="Group 2079" transform="translate(0 0)">
+                <g id="Group_2076" data-name="Group 2076" transform="translate(0 0)">
+                  <path id="Path_1675" data-name="Path 1675" d="M0,0,227.4.8l.06,17.146-227.4-.8Z" transform="translate(7.614 0) rotate(26.565)" fill="#fff"/>
+                  <g id="Group_2075" data-name="Group 2075" transform="translate(1.269 7.681)">
+                    <path id="Path_1676" data-name="Path 1676" d="M0,0,5.715-.02l-.4,113.7L-.4,113.7Z" transform="translate(0 5.121) rotate(-63.435)" fill="#c61018"/>
+                    <path id="Path_1677" data-name="Path 1677" d="M0,0,5.715-.02l-.4,113.7L-.4,113.7Z" transform="translate(104.055 51.208) rotate(-63.435)" fill="#c61018"/>
+                  </g>
+                </g>
+                <g id="Group_2078" data-name="Group 2078" transform="translate(0)">
+                  <path id="Path_1678" data-name="Path 1678" d="M0,0,227.4-.8l-.06,17.146-227.4.8Z" transform="translate(0 102.416) rotate(-26.565)" fill="#fff"/>
+                  <g id="Group_2077" data-name="Group 2077" transform="translate(3.807 2.56)">
+                    <path id="Path_1679" data-name="Path 1679" d="M0,0,113.7-.4l-.02,5.715-113.7.4Z" transform="translate(0 107.536) rotate(-26.565)" fill="#c61018"/>
+                    <path id="Path_1680" data-name="Path 1680" d="M0,0,113.7-.4l-.02,5.715-113.7.4Z" transform="translate(98.98 51.208) rotate(-26.565)" fill="#c61018"/>
+                  </g>
+                </g>
+              </g>
+              <g id="Group_2080" data-name="Group 2080" transform="translate(6.012 1.637)">
+                <path id="Path_1673" data-name="Path 1673" d="M2073.625,2692.94H1988.5V2650h-28.375v42.939H1875v28.626h85.125V2764.5H1988.5v-42.939h85.125Z" transform="translate(-1875 -2650)" fill="#fff"/>
+                <path id="Path_1674" data-name="Path 1674" d="M2073.625,2698.665h-90.8V2650H1965.8v48.664H1875v17.176h90.8V2764.5h17.025v-48.664h90.8Z" transform="translate(-1875 -2650)" fill="#c61018"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
